@@ -1,5 +1,3 @@
-const BASE_URL = "http://localhost:3000";
-
 // Ngambil elemen form
 const formulir = document.querySelector("form");
 
