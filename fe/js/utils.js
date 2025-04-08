@@ -1,1 +1,1 @@
-const BASE_URL = "https://docker5-797713225706.us-central1.run.app";
+const BASE_URL = "http://localhost:3000"
